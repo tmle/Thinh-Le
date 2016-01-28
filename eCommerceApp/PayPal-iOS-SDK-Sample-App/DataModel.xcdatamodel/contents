@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="14F1021" minimumToolsVersion="Xcode 4.3">
+    <entity name="Product" representedClassName="Product" syncable="YES">
+        <attribute name="productBrief" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productCurrency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productQuantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productThumbnail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productUnit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productWeight" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="rel2ProductList" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ProductList" inverseName="rel2Product" inverseEntity="ProductList" syncable="YES"/>
+    </entity>
+    <entity name="ProductList" representedClassName="ProductList" syncable="YES">
+        <attribute name="categoryDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="categoryId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="categoryName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="rel2Product" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Product" inverseName="rel2ProductList" inverseEntity="Product" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Product" positionX="-362" positionY="-115" width="128" height="223"/>
+        <element name="ProductList" positionX="-612" positionY="9" width="128" height="103"/>
+    </elements>
+</model>

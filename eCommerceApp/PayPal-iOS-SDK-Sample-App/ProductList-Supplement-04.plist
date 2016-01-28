@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productId</key>
+		<string>sup001</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup002</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup003</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>Webber Naturals 100% Pure Wild Alaskan Salmon Oil 1,000 mg (180 softgels) is a great source of omega-3 fatty acids. Wild salmon also have the highest source of alpha carotenoids available for extraction. Studies show that fish oil supplements may help reduce the risk of developing heart disease, depression, dementia, cancer, and arthritis. 
+
+- helps lower triglycerides (a type of fat in the blood stream that&apos;s been linked to heart disease)
+- may help slow the growth of plaques in arteries
+- reduces inflammation in blood vessels, joints, etc.
+- helps reduce the risk of cardiovascular disease and support total cholesterol levels
+- helps improve blood circulation
+- contains alpha carotenoids (precursors to vitamin A) that function as antioxidants and may help repair oxidation damage.
+
+Omega-3 fatty acids found in fish oils improve circulation and cardiovascular health. That&apos;s because omega-3s are &quot;good fats,&quot; unlike bad saturated fats that are found in other meats. EPA and DHA (found cold water fish oil with omega-3) are essential omega-s fatty acids (i.e. polyunsaturated, or highly unsaturated fat) that help maintain the healthy function of the body.
+
+- EPA and DHA (which have the strongest health benefits out of all omega-3s) are converted into hormone-like substances called prostaglandins. Not only do they help improve mental focus and cognitive function (also helping prevent mental abnormalities, such as Alzheimer&apos;s and dementia), but EPA and DHA insulate the body against heat loss, thus providing the body with more energy.
+
+Take 1-3 softgels daily with meals.</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup004</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup005</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup006</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup007</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup008</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup009</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup010</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup011</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup012</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup013</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup014</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup015</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup016</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup017</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup018</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup019</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup020</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup021</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup022</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup023</string>
+		<key>productName</key>
+		<string>Pure Alaska Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.02</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.2</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup024</string>
+		<key>productName</key>
+		<string>Webber Naturals</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/WN-wild-alaskan-salmon-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Wild alaskan salmon oil, 1000mg 180 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.03</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.3</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>sup025</string>
+		<key>productName</key>
+		<string>Newfoundland Omega-3</string>
+		<key>productThumbnail</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-88x66.png</string>
+		<key>productImage</key>
+		<string>https://thinhmle.com/test_upload/images/bacmymarket/harp-seal-oil-120w.png</string>
+		<key>productBrief</key>
+		<string>Harp seal oil, 500mg 300 softgels</string>
+		<key>productDescription</key>
+		<string>...</string>
+		<key>productPrice</key>
+		<string>0.01</string>
+		<key>productCurrency</key>
+		<string>USD</string>
+		<key>productWeight</key>
+		<string>0.1</string>
+		<key>productUnit</key>
+		<string>lb.</string>
+		<key>productQuantity</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
